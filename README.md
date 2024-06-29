@@ -1,2 +1,2 @@
 # Hello-World
-A simple tutorial for hello-world repository
+A simple tutorial for hello-world repository.
